@@ -1,0 +1,28 @@
+Prerequisites:
+
+  Experience writing object-oriented programs in Python
+  Familiarity with concepts of computational complexity
+    Un programa es practico dependiendo de su performance
+  Familiarity with some simple algorithms
+  6.00.1x its enough
+  
+How does it compare to 6.00.1x?
+  
+  Programming assignment a bit easier
+    Focus more on the problem to be solved than on programming
+  Lecture content more abstract
+  Less about learning to program, more about dipping your toe into data science
+  
+Why take 6.00.2x?
+
+  Become a better programmer
+  Begin to learn about making productive use of data
+    Statistical thinking
+    Using appropriate packages
+    
+Honing your programming skills
+
+  A few additional bits of Python
+  Software Engineering
+  Using Packages
+  How do you get to Carnegie Hall

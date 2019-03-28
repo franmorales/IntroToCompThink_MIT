@@ -26,3 +26,23 @@ Honing your programming skills
   Software Engineering
   Using Packages
   How do you get to Carnegie Hall
+
+Computational Models:
+   
+   Using computation to help understand the world in which welive 
+   Experimental devices that help us to understand something that has happended or to predict the future
+   
+   Optimization models
+   Stats models
+   Simulation models   
+   
+Some administrative things:
+  
+  Problem sets
+    Programming problems
+  Finger exercises
+    very small programming problem
+  
+  Reading assignments in textbook
+  
+  Exams

@@ -1,0 +1,34 @@
+Computational Models:
+
+  Opt. Models: Solvin lots of computations. Find the bigger/smaller
+    An objective function that is to be maximized or minimized.
+    A set of constraints (possibly empty) that must be honored
+    
+  Takeaways
+    - Many problems of real importance ca be formulated as an optimization problem
+    - Reducing a seeemingly new problem to an instance of a well-known problem allows to use pre-existing methods for 
+    solving them
+    - Solving optimization problems is computationally challenging  
+    - A greedy algorithm is often a good enough aproximation of the solution of an optimization problem. 
+    
+  The knapsack problem
+    You have limited strength, so there is a maximum weight knapsack that you can carry
+    
+    You would like to take more sturff than you can carry
+    
+    How do you choose which stuff to take and wich to leave behind
+    
+    Two variants:
+      0/1 knapsack problem --->
+        Is inherently exponential
+      Continuous or fractional knapsack problem,
+  
+    Brute force algorithm [way of solving it]
+      Enumerate all psoible combinatino of item.  POWER SET
+      Remove all of the comibination whose total units exceeds the allowed wight.
+      From the remaining combinations choose any on whose value is the largest
+  
+  
+  Stats Models
+  
+  Simulation Models

@@ -1,0 +1,23 @@
+Optimization Problems: Give up (never) || Approximate Solution || Exact solution.
+
+Greedy algorithm, a practical alternative.
+  While knapsack not full:
+    put best available item in knapsack
+    
+  But what does best mean?
+    It depends....
+    
+Funcion Lambda: Funciones anonimas.
+  lambda <arguments>: expresion
+  returns a function of n arguments
+  
+example:
+f3 = lambda x,y: 'factor' if (x%y ==0) else 'not factor'
+
+
+PROS and CONS:
+  Easy to implement
+  Computationally efficient
+  
+  
+  But does not alwayes yield the best solutions.
